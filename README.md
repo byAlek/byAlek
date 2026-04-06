@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex
 
-<!--
-**byAlek/byAlek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Engineer focused on building clean and efficient solutions.
 
-Here are some ideas to get you started:
+I enjoy working with modern web technologies and improving my problem-solving skills through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack
+TypeScript • JavaScript • Node.js
+
+## 🧩 Interests
+Web development, algorithms, and continuous learning.
+
+## 📫 Contact
+alex.ajct01@gmail.com
